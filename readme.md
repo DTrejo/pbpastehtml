@@ -1,4 +1,4 @@
-# npm install pbpastehtml
+# `npm install pbpastehtml`
 Pulls html from your clipboard and outputs it to stdout or a file.
 
 ## Usage
