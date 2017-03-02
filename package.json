@@ -24,6 +24,7 @@
     "url": "https://github.com/DTrejo/pbpastehtml/issues"
   },
   "homepage": "https://github.com/DTrejo/pbpastehtml#readme",
+  "preferGlobal": true,
   "dependencies": {
     "node-osascript": "2.0.0",
     "shelljs": "0.7.6"
