@@ -1,0 +1,31 @@
+{
+  "name": "pbpastehtml",
+  "version": "1.0.0",
+  "description": "extract html from your clipboard. allows you to get html from pbpaste.",
+  "main": "pbpastehtml.js",
+  "bin": {
+    "pbpastehtml": "pbpastehtml.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DTrejo/pbpastehtml.git"
+  },
+  "keywords": [
+    "pbpaste",
+    "clipboard",
+    "html"
+  ],
+  "author": "David Trejo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DTrejo/pbpastehtml/issues"
+  },
+  "homepage": "https://github.com/DTrejo/pbpastehtml#readme",
+  "dependencies": {
+    "node-osascript": "2.0.0",
+    "shelljs": "0.7.6"
+  }
+}
