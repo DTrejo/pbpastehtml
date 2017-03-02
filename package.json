@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/DTrejo/pbpastehtml.git"
+    "url": "git://git@github.com/DTrejo/pbpastehtml.git"
   },
   "keywords": [
     "pbpaste",
