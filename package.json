@@ -1,6 +1,6 @@
 {
   "name": "pbpastehtml",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "extract html from your clipboard. allows you to get html from pbpaste.",
   "main": "pbpastehtml.js",
   "bin": {
